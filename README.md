@@ -1,4 +1,4 @@
-** This porject mimics word documents it uses Drafts js library**
+**This porject mimics word documents it uses Drafts js library**
 
 *To get started you need to install the Draft js library using either yarn or npm as shown below*
 
