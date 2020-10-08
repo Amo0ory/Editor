@@ -1,3 +1,12 @@
+** This porject mimics word documents it uses Drafts js library**
+
+*To get started you need to install the Draft js library using either yarn or npm as shown below*
+
+### `yarn add react-draft-wysiwyg`
+### `npm install -S react-draft-wysiwyg`
+
+**Once installed you are ready to go**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
